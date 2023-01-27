@@ -1,0 +1,11 @@
+,data_type,count,missing,cardinality,mode,mode_freq,mode_percent,mode_2,mode_2_freq,mode_2_perc
+imdb_id,object,6,0.0,6,tt0069113,1,16.67,tt0069113,1,16.67
+original_title,object,6,0.0,6,Absolut,1,16.67,The Poseidon Adventure,1,16.67
+Drama,object,6,0.0,2,0,3,50.0,0,3,50.0
+Thriller,object,6,0.0,2,1,4,66.67,0,2,33.33
+Comedy,object,6,0.0,2,0,3,50.0,0,3,50.0
+Action,object,6,0.0,2,0,5,83.33,1,1,16.67
+Adventure,object,6,0.0,2,0,5,83.33,1,1,16.67
+Romance,object,6,0.0,2,0,4,66.67,1,2,33.33
+Crime,object,6,0.0,2,0,5,83.33,1,1,16.67
+History,object,6,0.0,2,0,5,83.33,1,1,16.67
